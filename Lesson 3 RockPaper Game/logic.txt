@@ -1,0 +1,2 @@
+Computer = Paper , Player = rock 
+Winner - Computer
